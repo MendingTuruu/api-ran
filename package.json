@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-alpis",
+  "name": "rest-api-ran",
   "version": "2.0.0",
-  "description": "make by alip free rest api",
+  "description": "Make By Pangeran Free Rest Api",
   "main": "index.js",
   "engines": {
     "node": "18.x"
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlipBot/Api-Alpis.git"
+    "url": "git+https://github.com/MendingTuruu/api-ran.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "AlipBot",
+  "author": "Pangeran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlipBot/Api-Alpis/issues"
+    "url": "https://github.com/MendingTuruu/api-ran/issues"
   },
-  "homepage": "https://github.com/AlipBot/Api-Alpis#readme",
+  "homepage": "https://github.com/MendingTuruu/api-ran#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
